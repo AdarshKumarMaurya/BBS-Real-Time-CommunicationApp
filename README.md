@@ -1,4 +1,4 @@
-**📹 Zoom Clone – MERN + WebRTC**
+**📹 Real Time Communication App (like zoom )– MERN + WebRTC**
 full-featured video conferencing app built with the MERN stack and WebRTC. This clone offers real-time video, audio, screen sharing, and messaging – delivering a collaborative experience similar to Zoom or Google Meet.
 -------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Features
